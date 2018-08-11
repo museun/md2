@@ -1,0 +1,10 @@
+[package]
+name = "md2"
+version = "0.1.0"
+authors = ["museun <museun@outlook.com>"]
+
+[dependencies]
+nom = "4.0.0"
+log = "0.4.3"
+env_logger = "0.5.12"
+byteorder = "1.2.4"
